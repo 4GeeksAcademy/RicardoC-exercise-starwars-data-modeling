@@ -1,3 +1,4 @@
+#no se me actualiza el diagrama
 import os
 import sys
 from sqlalchemy import Column, ForeignKey, Integer, String
